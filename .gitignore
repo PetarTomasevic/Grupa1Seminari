@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Expert.DinoKabalin.Seminar/obj
+/Expert.DinoKabalin.Seminar/bin/Debug/net7.0
