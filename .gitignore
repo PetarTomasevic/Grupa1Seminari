@@ -2,12 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Grupa1Seminari/v17/.wsuo
-/.vs/VSWorkspaceState.json
-/.vs/slnx.sqlite
-/.vs/Grupa1Seminari/FileContentIndex/read.lock
-/.vs/Grupa1Seminari/FileContentIndex/626c76a0-89ad-4ac0-a0ed-6ea0a4442ce3.vsidx
-/.vs/Grupa1Seminari/FileContentIndex/001de4cf-3f85-4cb1-936d-11d0268c2ec0.vsidx
-/.vs/Grupa1Seminari/FileContentIndex/d5b0fa30-d23e-4eec-8c3a-1a789ab22e1c.vsidx
-/.vs/Grupa1Seminari/FileContentIndex/169d3058-0c2f-48cd-8d41-2f38060c25cd.vsidx
-/.vs/Grupa1Seminari/FileContentIndex/00731b31-3abf-42c8-8b94-3f0112d5ead0.vsidx
+/.vs
+/Ekspert.HelgaAbramovic.Seminar/obj
+/Ekspert.HelgaAbramovic.Seminar/bin/Debug/net6.0
