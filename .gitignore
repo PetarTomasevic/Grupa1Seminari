@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Expert.WebApiOsnovePrimjeri/bin/Debug/net7.0
+/Expert.WebApiOsnovePrimjeri/obj
