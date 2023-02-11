@@ -1,1 +1,1 @@
-# Grupa1Seminari
+# Seminar2HelgaAbramovic
